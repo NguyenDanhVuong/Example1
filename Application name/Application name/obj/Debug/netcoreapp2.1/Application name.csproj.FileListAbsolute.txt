@@ -1,0 +1,35 @@
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\bin\Debug\netcoreapp2.1\Application name.deps.json
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\bin\Debug\netcoreapp2.1\Application name.runtimeconfig.json
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\bin\Debug\netcoreapp2.1\Application name.runtimeconfig.dev.json
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\bin\Debug\netcoreapp2.1\Application name.dll
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\bin\Debug\netcoreapp2.1\Application name.pdb
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\bin\Debug\netcoreapp2.1\Application name.Views.dll
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\bin\Debug\netcoreapp2.1\Application name.Views.pdb
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.csprojAssemblyReference.cache
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.csproj.CoreCompileInputs.cache
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.RazorAssemblyInfo.cache
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.RazorAssemblyInfo.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.AssemblyInfoInputs.cache
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.AssemblyInfo.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.TagHelpers.input.cache
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.TagHelpers.output.cache
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.RazorCoreGenerate.cache
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Areas\Identity\Pages\_ViewStart.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.RazorTargetAssemblyInfo.cache
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.RazorTargetAssemblyInfo.cs
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.Views.pdb
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.dll
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.pdb
+E:\FPT\ASP.NET MVC\Example\Example1\Example\Application name\Application name\obj\Debug\netcoreapp2.1\Application name.csproj.CopyComplete
